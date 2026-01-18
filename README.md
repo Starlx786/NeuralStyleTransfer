@@ -45,4 +45,4 @@ The system successfully generates stylized images by blending the content of a p
 6. Conclusion
 This project successfully implements a Neural Style Transfer model using a pre-trained VGG19 network. The system demonstrates how deep learning techniques can be applied to artistic image transformation without training a model from scratch. Neural Style Transfer showcases the power of convolutional neural networks in understanding and manipulating visual content. The project can be further enhanced by optimizing runtime using fast style transfer models, adding a graphical user interface, or extending the system to support multiple artistic styles.
 
-*OUTPUT*: 
+*OUTPUT*: <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/ee22d786-3679-47a0-b179-77d71025e0f7" />
